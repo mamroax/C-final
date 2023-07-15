@@ -1,0 +1,15 @@
+C:\Users\mamro\Desktop\Geekbrains\C#_final\bin\Debug\net7.0\C#_final.exe
+C:\Users\mamro\Desktop\Geekbrains\C#_final\bin\Debug\net7.0\C#_final.deps.json
+C:\Users\mamro\Desktop\Geekbrains\C#_final\bin\Debug\net7.0\C#_final.runtimeconfig.json
+C:\Users\mamro\Desktop\Geekbrains\C#_final\bin\Debug\net7.0\C#_final.dll
+C:\Users\mamro\Desktop\Geekbrains\C#_final\bin\Debug\net7.0\C#_final.pdb
+C:\Users\mamro\Desktop\Geekbrains\C#_final\obj\Debug\net7.0\C#_final.csproj.AssemblyReference.cache
+C:\Users\mamro\Desktop\Geekbrains\C#_final\obj\Debug\net7.0\C#_final.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mamro\Desktop\Geekbrains\C#_final\obj\Debug\net7.0\C#_final.AssemblyInfoInputs.cache
+C:\Users\mamro\Desktop\Geekbrains\C#_final\obj\Debug\net7.0\C#_final.AssemblyInfo.cs
+C:\Users\mamro\Desktop\Geekbrains\C#_final\obj\Debug\net7.0\C#_final.csproj.CoreCompileInputs.cache
+C:\Users\mamro\Desktop\Geekbrains\C#_final\obj\Debug\net7.0\C#_final.dll
+C:\Users\mamro\Desktop\Geekbrains\C#_final\obj\Debug\net7.0\refint\C#_final.dll
+C:\Users\mamro\Desktop\Geekbrains\C#_final\obj\Debug\net7.0\C#_final.pdb
+C:\Users\mamro\Desktop\Geekbrains\C#_final\obj\Debug\net7.0\C#_final.genruntimeconfig.cache
+C:\Users\mamro\Desktop\Geekbrains\C#_final\obj\Debug\net7.0\ref\C#_final.dll
